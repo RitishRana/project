@@ -2,7 +2,7 @@ Steps to use the project:
 1)install Redis
 	http://redis.io/download
 
-2)we also need hiredis: Has been included in the project/include (No need to do anything)
+2)we also need hiredis: Has been included in the hiredis/include (No need to do anything)
 
 3)Download curl library c/c++ : sudo apt-get install libcurl4-gnutls-dev
 
