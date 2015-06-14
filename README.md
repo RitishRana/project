@@ -13,9 +13,10 @@ Steps to use the project:
 
 6) For the second part: webpage: Download codeigniter from http://www.codeigniter.com/download and place it in the apache server director.
 
+7) Rename the folder as ci and place hiredis folder downloaded inside ci folder.
 
-7) Place the Redis.php to the path: codeigniter_folder_apache_server/application/controllers.
+8) Place the Redis.php to the path: codeigniter_folder_apache_server(ci)/application/controllers.
 
-8) Finally paste routofy.php to the folder just outside codeigniter_folder_apache_server.
+9) Finally paste routofy.php to the folder just outside codeigniter_folder_apache_server(ci).
 
-9) Last open the browser: localhost/routofy.php or localhost/path_to_routofy.php
+10) Last open the browser: localhost/routofy.php or localhost/path_to_routofy.php
